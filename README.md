@@ -32,21 +32,22 @@ The dreaded Warehouse Layout Editor
 
 <img width="616" height="344" alt="image" src="https://github.com/user-attachments/assets/4fac16d3-7ad5-45e5-adae-823c4294c257" />
 
-
 # Setup
 Before setting up any of the software, you will need to have:
 - 1 or more computers with a container nearby, this is your "Access Station" where you will request and recieve items
 - 1 Advanced Computer, this is your warehouse server
 - 1 or more containers dedicated for storge, these will be your "Storage"
-- 1 or more container for item input, this will be your "Dropoff Station"
+
+At least 1 container for item input assigned as a "Dropoff Station" is recommended as it's faster than using hoppers to sort manually into chests, but if you would like to only use ware-on to search and move items to an "Access Station", a dropoff station container is optional.
+Ware-on has no default options for sorting. If you would like your items to be sorted, you can set up the usual vanilla hopper sorters.
 
 All of the above peripherals need to be connected with a **wired modem**
 
 Here is an example of what it should look like. As long as all of the peripherals are connected by a wired modem, it can be placed anywhere.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c0cd2c1-0271-4583-a270-a0f48a051c74" />
 
-
-
+And this is a minimal setup to get ware-on working
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8bf136fa-0bf6-4809-8066-9e7d1035b9eb" />
 
 # Generating a warehouse.ware file
 For advanced users: it's a GUI editor, you can basically skip over this section except step 1 if you dont want to know about what does what. Just run the command from step 1 to get the editor.
