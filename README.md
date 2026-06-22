@@ -34,8 +34,8 @@ The dreaded Warehouse Layout Editor
 
 # Setup
 Before setting up any of the software, you will need to have:
-- 1 or more computers with a container nearby, this is your "Access Station" where you will request and recieve items
-- 1 Advanced Computer, this is your warehouse server
+- 1 or more Advanced Computers with a container nearby, this is your "Access Station" where you will request and recieve items
+- 1 Regular or Advanced Computer, this is your warehouse server
 - 1 or more containers dedicated for storge, these will be your "Storage"
 
 At least 1 container for item input assigned as a "Dropoff Station" is recommended as it's faster than using hoppers to sort manually into chests, but if you would like to only use ware-on to search and move items to an "Access Station", a dropoff station container is optional.
