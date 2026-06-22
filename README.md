@@ -60,7 +60,7 @@ Dropoff Stations are where items enter to be shoved in storage by the server.
 ## 1. Run this download the Warehouse Layout Editor
 
 ```
-wget https://raw.githubusercontent.com/LemionLaLemon/ware-on/refs/heads/main/WarehouseLayoutEditor.lua
+wget https://github.com/LemionLaLemon/ware-on/releases/download/Release/WarehouseLayoutEditor.lua
 ```
 
 It is recommended to install the Layout Editor to the server with a disk drive attached. The rest of this guide will assume you did so. However, installation without a floppy disk is possible.
@@ -107,7 +107,7 @@ As per usual, if nothing happens, wait 5 seconds before exiting after saving.
 ## 1. Download the server setup
 
 ```
-wget https://raw.githubusercontent.com/LemionLaLemon/ware-on/refs/heads/main/Server/setup.lua
+wget https://github.com/LemionLaLemon/ware-on/releases/download/Release/setup.lua
 ```
 
 ## 2. Run the setup
@@ -138,7 +138,7 @@ MOVE [minecraft:chest_X TO minecraft:chest_X]
 # Installing the Access Station software
 ## 1. Download the Access Station software
 ```
-wget https://raw.githubusercontent.com/LemionLaLemon/ware-on/refs/heads/main/AccessStation/AccessStation.lua
+wget https://github.com/LemionLaLemon/ware-on/releases/download/Release/AccessStation.lua
 ```
 
 ## 2. Run the Access Station
